@@ -1,0 +1,19 @@
+
+h1 {
+color:white;
+font-family:helevetica;
+background-color:black;
+padding:50px;
+}
+
+p {
+  color: blue
+}
+
+img {width:50%;
+  height:50%;
+margin-left:200px;
+}
+#highlight
+  { color: black
+}
